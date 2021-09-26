@@ -4,7 +4,7 @@
 
 
 ## Cześć!  
-Anatomia Kodu to miejsce rozwoju adeptów sztuki programowania. Staram się w możliwie najprostszy sposób tłymaczyć zawiłości IT.   
+Anatomia Kodu to miejsce rozwoju adeptów sztuki programowania. Staram się w możliwie najprostszy sposób tłumaczyć zawiłości IT.   
 
 [Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/580778376232680)
 
@@ -15,7 +15,7 @@ Jeżeli chcesz się czegoś nowego nauczyć to mam nadzieję że materiały tu z
 
 ## Kim jestem?
 
-Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
+Nazywam się ***Michał Ćwiękała*** i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na ***Politechnice Śląskiej***, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
  
 Możesz mnie śledzić tutaj:
 
