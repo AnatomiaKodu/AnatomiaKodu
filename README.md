@@ -1,4 +1,7 @@
-<img src="docs/logo.png" alt="drawing" width="200"/>
+<p align="center">
+    <img src="docs/logo.png" alt="drawing" width="500"/>
+</p>
+
 
 Cześć!
 Anatomia Kodu to miejsce rozwoju adeptów sztuki programowania. 
