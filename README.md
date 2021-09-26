@@ -4,8 +4,12 @@
 
 
 ## Cześć!  
-Anatomia Kodu to miejsce rozwoju adeptów sztuki programowania.   
+Anatomia Kodu to miejsce rozwoju adeptów sztuki programowania. Staram się w możliwie najprostszy sposób tłymaczyć zawiłości IT.   
+
+[Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/580778376232680)
+
 Jeżeli chcesz się czegoś nowego nauczyć to mam nadzieję że materiały tu zawartę okażą się dla Ciebie pomocne.  
+
 ### Happy coding!  
 
 
