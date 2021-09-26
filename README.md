@@ -10,12 +10,12 @@ Anatomia Kodu to miejsce rozwoju adeptów sztuki programowania. Staram się w mo
 
 Jeżeli chcesz się czegoś nowego nauczyć to mam nadzieję że materiały tu zawartę okażą się dla Ciebie pomocne.  
 
-### Happy coding!  
+#### Happy coding!  
 
 
 ## Kim jestem?
 
-Nazywam się ***Michał Ćwiękała*** i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na ***Politechnice Śląskiej***, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
+Nazywam się ***Michał Ćwiękała*** i jestem zawodowym programistą od ***ponad 6 lat***. Skończyłem Informatykę na ***Politechnice Śląskiej***, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
  
 Możesz mnie śledzić tutaj:
 
